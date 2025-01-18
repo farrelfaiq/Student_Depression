@@ -1,4 +1,4 @@
-# Prediksi Kecenderungan Depresi pada Mahasiswa Menggunakan Metode Gradient Boost Tree
+# Analisa dan Prediksi Kecenderungan Depresi Pada Mahasiswa Menggunakan Metode Gradient Boost Tree
 Depresi merupakan masalah kesehatan mental yang signifikan, terutama di kalangan mahasiswa. Proyek ini bertujuan untuk mengembangkan model prediksi yang dapat membantu dalam deteksi dini dan pencegahan depresi pada mahasiswa. Dengan menggunakan dataset Student Depression Dataset, kami akan menganalisis hubungan antara berbagai faktor seperti tekanan akademik, kualitas tidur, dan riwayat kesehatan mental keluarga dengan kecenderungan depresi. Hasil dari penelitian ini diharapkan dapat memberikan kontribusi bagi pengembangan intervensi yang lebih efektif dan personalisasi dalam mengatasi masalah depresi di lingkungan kampus.
 
 Penelitian ini berhasil menganalisis dan memprediksi kecenderungan depresi pada mahasiswa berdasarkan berbagai faktor. Dan hasil penelitian menunjukan bahwa Model Gradient Boosted Trees (GBT) mampu memprediksi dengan akurasi yang tinggi dibanding model yang lain. Model ini memberikan nilai evaluasi yang cukup baik, yaitu:
